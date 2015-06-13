@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "ReactTest"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-ReactTest-479c7ac2-1267-4ace-af54-66f8b06434b2;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
